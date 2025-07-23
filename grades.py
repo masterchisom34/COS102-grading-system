@@ -17,3 +17,8 @@ def get_grade(score):
     else:
         return None, 'Invalid Score'
 
+
+
+Name=Ezenwoke chisom Anthony 
+Regno=2024714030
+Dept= Human physiology department 
