@@ -1,7 +1,6 @@
 score = int(input("enter your score (<=100)")
 
 def get_grade(score):
-    """Returns grade and remark based on score."""
     if 70 <= score <= 100:
         return 'A', 'Excellent'
     elif 60 <= score < 70:
@@ -19,6 +18,6 @@ def get_grade(score):
 
 
 
-Name=Ezenwoke chisom Anthony 
-Regno=2024714030
-Dept= Human physiology department 
+#Name=Ezenwoke chisom Anthony 
+#Regno=2024714030
+#Dept= Human physiology department 
